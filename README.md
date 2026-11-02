@@ -67,8 +67,8 @@
 1. Встанови [Python 3.10+](https://www.python.org/downloads/) (на Windows познач **Add python.exe to PATH**).
 2. Клонуй репозиторій:
    ```bash
-   git clone https://github.com/<твій-нікнейм>/<назва-репозиторію>.git
-   cd <назва-репозиторію>
+   git clone https://github.com/Gruier/<Broski>.git
+   cd Broski
    ```
 3. Встанови залежності:
    ```bash
