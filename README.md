@@ -36,21 +36,10 @@
 - **Сервіс**: `/help`, `/ping`, `/userinfo`, `/serverinfo`, `/announce`
 
 ---
+# Скриншоти
+   ![Команда /help](help.png)
 
-## 📸 Скриншоти
-
-> Додай сюди свої скриншоти (папка `screenshots/`):
->
-> - `/help`
-> - `/rank`
-> - канал `mod-logs`
-> - кнопка верифікації або тікетів
->
-> ```markdown
-> ![Команда /help](screenshots/help.png)
-> ```
-
----
+   ![Рівні й досвід](rank.png)
 
 ## 🧰 Технології
 
