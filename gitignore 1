@@ -1,15 +1,11 @@
-# Секрети: НІКОЛИ не публікувати
 .env
 
-# База даних бота
 bot.db
 
-# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 
-# Редактори
 .vscode/
 .idea/
